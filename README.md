@@ -4,3 +4,6 @@
 ## Course 1: EDA
 
 **_Description:_** This note related to how to explore data using visual and calculation method.
+
+## Course 2: Supervised Machine Learning - Regression
+
